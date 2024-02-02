@@ -1,4 +1,4 @@
 # Roller-Blind
-For ESP32\n
-Using Blynk App\n
-Wifi control\n
+For ESP32
+Using Blynk App
+Wifi control
